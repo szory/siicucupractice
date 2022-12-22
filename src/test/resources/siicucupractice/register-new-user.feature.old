@@ -1,0 +1,10 @@
+# new feature
+# Tags: optional
+
+Feature: Sii practice project
+
+  Scenario: A register new user
+    Given click on sign in button
+    When Submit create account form with valid email
+    When fill up all fields for register process
+    Then get success webpage with proper message "MY ACCOUNT"

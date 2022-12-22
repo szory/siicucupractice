@@ -1,0 +1,17 @@
+siicucupractice\config\DataFaker.class
+siicucupractice\config\TestConfig.class
+siicucupractice\pages\ProfilePage.class
+siicucupractice\pages\HomePage.class
+siicucupractice\pages\SignUpPage.class
+siicucupractice\utils\Utilities.class
+siicucupractice\pages\ProductsPage.class
+siicucupractice\config\WebDriverSingleton.class
+siicucupractice\pages\OrderPage.class
+siicucupractice\pages\BasePage.class
+siicucupractice\pages\ProductTopMenu.class
+siicucupractice\StepDefinitions.class
+siicucupractice\pages\CreateEmailPage.class
+siicucupractice\steps\purchaseProduct.class
+siicucupractice\utils\BaseTest.class
+siicucupractice\steps\registerNewUser.class
+siicucupractice\TestRunner.class
